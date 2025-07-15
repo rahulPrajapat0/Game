@@ -1,4 +1,5 @@
-🎮 Gun, Snake & Water Game in Python 🐍🔫💧
+<h1>Gun-Sanke-Water</h1>
+<p>🎮 Gun, Snake & Water Game in Python 🐍🔫💧
 I’ve created a simple yet fun Python game — a twist on the classic "Rock, Paper, Scissors"!
 In this version:
 
@@ -17,3 +18,4 @@ While loops and conditionals for gameplay logic
 Score tracking and user interaction via terminal
 
 Whether you're a beginner or just want a fun project to check out, give it a try and let me know what you think! 😊
+</p>
